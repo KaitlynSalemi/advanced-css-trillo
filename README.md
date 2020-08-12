@@ -15,4 +15,4 @@ Technology and Techniques Used:
 - Browser support
 - NPM scripts
 
-This project was created with the help of the Udemy course; Advance CSS and Sass: Flexbox, Grid, Animations and More!
+This project was created with the help of the Udemy course; [Advance CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
